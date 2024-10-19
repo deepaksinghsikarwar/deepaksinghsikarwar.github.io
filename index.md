@@ -10,11 +10,11 @@ Deepak Singh Sikarwar
 Experience
 ----------
 
-### destm technologies - 2023 - Present
+### Destm technologies, 2023 - Present
 #### Automation Test Engineer
 I have focused on developing, executing, and managing test automation frameworks from scratch using Selenium WebDriver, TestNG, Rest Assured, and the Cucumber framework. I worked closely with cross-functional teams to identify test requirements, design comprehensive test plans, and ensure the delivery of high-quality software products
 
-### Rakuten - 2021 – 2022
+### Rakuten, 2021 – 2022
 #### System Engineer I
 I worked on multiple projects involving web, mobile, and API automation. I coordinated closely with the development team to ensure timely bug fixes and smooth build processes. My experience includes preparing test plans, test cases, test scenarios, and executing tests to maintain high software quality. I effectively operated within Agile methodologies, including Scrum and Kanban, to enhance project management and ensure efficient delivery.
 
@@ -33,23 +33,23 @@ Education
 ### Kendriya Vidyalaya No. 3 Morar Cantt, Gwalior (CBSE) (2015-2016)
 * Science (79.8%)
 
-Core Skills/Programming Languages
+Core Skills
 ---------------------------------
 
 **Automated Testing**
-* Frameworks: Selenium WebDriver, TestNG, PyTest, Robot Framework, Cypress, Cucumber
+* Selenium WebDriver, TestNG, PyTest, Robot Framework, Cypress, Cucumber
 
 **API Automation**
-* Tools: REST Assured, Postman
+* REST Assured, Postman
 
 **Mobile Automation**
-* Tools: Kobiton, BrowserStack, Appium
+* Kobiton, BrowserStack, Appium
 
 **Manual Testing**
-* Skills: Test Case Design, Test Planning, Test Execution, Bug Reporting
+* Test Case Design, Test Planning, Test Execution, Bug Reporting
 
 **Programming Languages**
-* Languages: Java, JavaScript, Python
+* Java, JavaScript, Python
 
 **Project Management**
 * Methodologies: Agile development (Jira)
@@ -57,7 +57,7 @@ Core Skills/Programming Languages
 * Version Control: Git
 
 **Databases**
-* Technologies: MySQL, MongoDB
+* MySQL, MongoDB
 
 **Platforms & Builders**
 * Operating Systems: Windows, Linux, macOS
